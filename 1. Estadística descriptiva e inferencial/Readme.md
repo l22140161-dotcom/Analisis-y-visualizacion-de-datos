@@ -11,3 +11,5 @@ Cambia el entorno de ejecución a *R*:
 <img width="1068" height="779" alt="image" src="https://github.com/user-attachments/assets/bc2cd8c5-0d4a-4a6f-a829-2f4304cbe75f" />
 
 Finalmente, realiza e ejercicio de la unidad 1.
+
+Los ejercicios de esta unidad fueron consultados desde [RPubs](https://rpubs.com/diegomeza/inferencia_con_R?authuser=4)
